@@ -1,0 +1,40 @@
+{
+   
+    "projects": [
+      {
+        "id": "1",
+        "src": "/img/cd.jpeg",
+        "title": "CD Store",
+        "description": "From CD Store you can log in as an Adminstrator, Manager or User. Each actor has different responsibilities. Project language: Java"
+      },
+      {
+        "id": "2",
+        "src": "./img/park.jpg",
+        "title": "Park It",
+        "description": "ParkIt is an application used only in Tirana. With PartIt you can find free parking spots easily. Project Language: Java"
+      },
+      {
+        "id": "3",
+        "src": "/img/linguaprep.jpeg",
+        "title": "Lingua Prep",
+        "description": "Lingua Prep is a website build as online Englih and Language Course. Users and Professors can manage their classes easily"
+      }
+    ],
+    "services": [
+      {
+        "id": "1", 
+        "title": "Web Development",
+        "description": "I am able to create visually appealing and user-friendly websites that align with clients' branding and business goals. My knowledge covers both front-end and back-end development, ensuring a seamless user experience. Additionally, I excel in building e-commerce solutions, empowering clients to sell products and services online effortlessly."
+      },
+      {
+        "id": "2",
+        "title": "Custom Software Development",
+        "description": "I create customized software solutions, addressing specific client needs across web applications, mobile apps, and desktop software. My services cover the entire development process, from planning and design to testing, deployment, and ongoing maintenance and support."
+      },
+      {
+        "id": "3",
+        "title": "Mobile App Development",
+        "description": "I can work with cross-platform mobile app development. My expertise lies in crafting customized apps with features such as user authentication and real-time updates. I prioritize a user-friendly design, optimizing performance and responsiveness for a seamless mobile experience."
+      }
+    ]
+  }
